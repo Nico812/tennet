@@ -1,2 +1,2 @@
-# tennet.github.io
+# tennet
 VJ portfolio
